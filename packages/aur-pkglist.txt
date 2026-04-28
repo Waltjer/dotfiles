@@ -1,0 +1,17 @@
+caelestia-meta
+claude-code
+delance-langserver
+envycontrol
+hyprmod-git
+outlook-for-linux-bin
+paru
+paru-debug
+python312
+quarto-cli-bin
+spotify
+update-grub
+v8-r
+vim-language-server
+zen-browser-bin
+zoom
+zotero
